@@ -1,0 +1,414 @@
+^^^Full Stack Data Science & AI @ 7:00 PM (IST) 
+Webinar Link: https://zoom.us/j/81677633194
+
+========= 18th July
+Today is the 1st day ( brand new batch) 
+The learners who every any query & who ever raise your hand 
+I will unmute you at last & we will speak together ( session shouldnt be distrubed)
+1- full stack ds 
+		full stack -- backend + frontend 
+	instagram -- ui page ( frontend ) + application will be open 
+2- LLm model 
+	chatgpt
+	I would humble request you to the online learner who ever raise your hand 
+	I will answer your query at the end of the session . please dont angry ( experience guys ) CALM DOWN 
+
+		NAME OF THE COURESE --> 
+		FSDS WITH GEN AI & AGENTIC AI 
+	
+3- 	Demo classes are going on 
+		you have few query ( I will answer it) 
+		
+4- my name is k.prakash senapati
+		18+Yr experice ( linkedin for more details)
+		10+ yr in corporate , international , nareshit
+
+5- chatgpt -- new platform 
+		llm application 
+		java, c, c++, .net, == 50yr these jobs are avaiable in the market 
+		jobs very hard code ( we need to write lengthy code) 
+	
+6- AGENTIC AI 
+		lot of jobs are automized 
+		chatgpt -- can you generate calculator app 
+				chatgpt application generate the code but not app 
+					developer or user copy the code and build the app using ide ( vs code, jpyter) 
+	AGENTIC AI -- agents build code , exceute the code, creat app for you withour user interaction 
+	
+	GEN AI vs AGENTIC AI 
+	
+  7- if anyone from non tech background please attend the session through offline model
+		offline model & Online mode bothe are same no difference 
+		
+8- AI ( less code compare to other programming language) 
+
+9- if user has old laptop ( no need buy any laptop) 
+		user has new laptop (no need to buyd)
+		looking for buy new laptop (
+		good at typing 
+		good listener 
+		attend regualar cless 
+		2-3hr practicle 
+		wise guy ( listen firest then speak) 
+		
+10 - java ( java developer)
+		.net ( .net developer)
+		
+11- by learning this course 
+		user can apply multiple job roles 
+		
+12- course duration -- 5-6 months 
+		timeing -- mon- sat ( 7pm-8:30pm) 
+		i will asssing works on daily basis
+		
+13- from 0 level to expert level 
+		0, 1, 2, 3 ---- 
+
+name of the course 
+my introduction 
+who can learner this course 
+what prerequiiste required to learn this course 
+generative ai vs agentic ai
+library or pakcage we used to learn this course 
+tree structure python, fsds, gen ai, agentic ai
+q & a  == 27k without recording == 32k with recording 
+
+===== 19th
+	I shared mr.arif any non technical question , enrolmetn 
+	scan the qr code 
+	course syllabus 
+
+when you scan the qr code -- on daily basis admin team will share recording & drive link 
+click the drive link download course syllabus & Print it & keept it with you for life time 
+tomorrow i am going to conduct free session for nit learners 
+what ever laptop please work on that if laptop is slow then updata me 
+
+GENERATIVE AI PROJECT
+LLM PROJECT -- LAPTOP WOULD BE SLOW DOWN 
+I WILL INTROUDE GOOGLE COLAB (GOOGLE) 
+
+===21st 
+
+java -- 100% coding is required 
+c -- 100% codeing is required 
+c++ -- 100% coding is required 
+sql -- 90% coding is required 
+
+DATA ANALYTICS, DATASCIENCE, GENERATIVE AI, AGENTIC AI, LLM MODEL --
+		50% CONCEPT + THEORY & 50% CODE 
+No software job availab in the market without coding  
+40-50% ( everyday 2-3hr ) class practise code & organization task) 
+
+who ever any question i will speak with 8:30 online team
+I will answer your query then you can go
+course - fresher, experience , career gap ( any one who willing to transti to IT ) they can happily learn this course 
+
+human intellignece -
+same human intelligen when i feed into machine 
+machine act like human 
+
+AI -- MACHINE ARE MIMIC HUMAN INTELLIGNECE IS CALLED AI 
+	ALEX -  
+
+ml job 
+
+	amazon -- laptop 
+		5yr back -- 
+		laptop + mouse + laptop backpoack 
+	
+if you book next month ( ml model predicts seat )
+when you text in whats app -- next word prediction
+happy -- happy imoji 
+sad --  
+
+DA -- we do data analys in EXCEL SHEET 
+		PYTHON , SQL, POWERBI, TABLEAU 
+DS - 2017 
+AI - 2017
+GENAI, LLM ,PROMPT ENGINEER  -- 2023 
+AGENTIC AI -- 2025  
+=====
+
+java course -- java developer only  1job 
+if you complet ds, genai, agentic ai 
+	
+6 months of the course - i wnat you apply job from 3rd month onward 
+we can tracke the status -- more project apply jb 
+6mont -- few offer from your batch 
+
+ live project also called as capstone domain  ( BFSI ) PROJECT 
+
+banking -- live 
+finance -- live 
+insureance - live 
+servcei - live 
+
+==== 22nd 
+
+so far we just completed 2 session not much 
+last 10min -- i will take the backup for last2 session 
+everyday i am spendinv 30-40 min to answer your question 
+yesterday we completed few topics can we reviese yesterday 
+
+you need to talk to the brain -- sigma line 
+who ever enrolled under my class your name & email id must has to enrolled inside the classroom 
+so that everyday notes i will share on daily baiis, 
+resume, notes, project, class room , tracking sheet, interview question 
+google classroom as your whatsapp 
+who ever enrolled the course please ask google classrrom to areef and join this batch
+---
+Basic python code -->
+---
+numbers 
+text 
+python also lets start with numbers 
+numbers 
+text -- string 
+syntax error -- if user forget to enter any information those type of error is called syntax error 
+10 + 5
+10 & 5 --> operand
++ - operator 
+
+===== 23rd
+this is new batch on fsds, generative ai , agentic ai
+3days ago we start this new batch walk through 3days 
+
+1- name of the course
+2- who am i ? my intrdouction ( 18+ )
+3- who can learn this course 
+4- roadmap of this course  (5-6 month)
+5- prerequise to learn this course  ( typing skill) 
+6- learning path 
+7- course certification 
+8- job placement ( student job offer)
+9- what is laptop configuarion 
+10- python work with number
+ 
+we havent start any code yet
+the learner who joined for the 1st time, 2nd time, not a problem at all i will share 4 days recording session. 
+today we will start 1st python programming language 
+python is foundation for everything ( ml prediction model, llm model, backend, frontend ) 
+introduction of python 
+if any learner already completed python -- python with data, ai 
+everytopic iw ill start from -- experience -- i wnat you to be little patience 
+
+==== we will start python code today 
+
+1- So Today we will work few basic concept then i will teach you how to install 
+2- google -- 
+
+python concept  
+1- work with number
+2- work with string
+3- work with string slicing
+4- work with variable createion 
+5- how to installatioon anaconda software 
+
+online team -- just calm down .. happily we student 
+
+excel - .xlcs 
+pdf - .pdf
+word - .doc 
+xml - .xml 
+python programming languag - .py 
+if you work in jupyter noteboak -- .ipynb (interactive python notebook)
+
+watc-- .mp3 | .mp4
+
+coding language text -- string 
+today onwards you will call as string 
+string everytime writtne in ' ' | "" | ''' '''
+difference between ' ' | " " | ''' ''' 
+
+' ' | " " - we use for single line string 
+''' ''' -- you will be using for multiline string 
+
+forward music >>> ( left to right) 
+backward music <<<< (right to lift)
+
+index 
+forward index 
+backward index 
+
+everytime we cannot use google colab 
+
+we need to learn how to install the software in local machine -->
+
+local machine -- personal laptop -- local server -- when you install database in your personal laptop 
+technical word is called local 
+
+free = open source 
+---
+STEPS TO INSTALL SOFTWARE IN LOCAL MACHINE -->
+----
+1- Google 
+2- Type anaconda python 
+3- click the first link -- https://www.anaconda.com/download
+4- give your gmail id  
+5- window- python 64 bit - python 3.13 latest version 
+6- installation of software 
+7- please wathc the video which i shared 
+
+==== 24th
+yesterday how to install software to work with datascience, data analytics, llm  
+most of learnes already installed it 
+let me khow who ever facing issue after registered 
+i will share mentor link -- you can ask directly clear 
+the student who joined for 1st time, 2time i will recap the quick session 
+nhe student who joined 1st t, 2nd time i will take backup class last 10 ,
+i wil uumute you if you have any question we will discuss 
+llm model are 2 part -->
+	1st - Text based model ( user -- enter text & model generate the text) 
+	2nd - multi model -- user - wrte text & model generate audio, iamge, video )
+			sota ( state of the art model) 
+openai model | google model | meta model | deepseek model | ollama model 
+python -
+		python 
+		java script
+		ruby 
+1- python fast programming language 
+2- python will use - da, graphs, ml, ai, dl, nn, gen ai, llm ,prompt engie, agentic ai, 
+								 dashboard , cloud, database, everywhere 
+3- z- expert level 
+4- to learn any programming language we need to software 
+		anaconda
+			jupyter notebook
+			spyder 
+	i wil share one link to you today installation file -- please watch & Complete this & later also i will explain you 
+	yesterday i already explain & I will explain again
+5- IDE ( INTEGRATED DEVELOPMENT ENVIRONMENT)
+			error -- bugs | fix the error - debugging 
+6- python interpreter vs compiler 
+	 user execute the code line by line or group of lines isc alled interpreterd 
+	  exucture entire code at once -- compiler 
+whenever you build user have to entire code at once 
+ while we practise code we need to run line by line 
+
+7- do not compare java to python | c to python 
+8- python is object orient programin glanguage (oops) 
+		class 
+		method 
+		object 
+		encapsulation 
+		polymorphism
+		inheritence
+		abstraction 
+9- all real time work solve by object only 		
+10- python was release on 1989 java relase on 1995 
+11- no one used python 
+12- python job market from last 2015 onward -- next decade 
+13- almost fortune 500 companies are using python 
+14- python is dynamic programing language 
+15- python is platform independent ( write codeonce) apply every os 
+			window os
+			mac os
+			linxos 
+16- python only easy & user friendly to learn datascience application 
+17- any person must have to recognize based on speaking, behaveio, explanation, 
+
+====  25th 
+
+1- Demos  we are completed 
+2- who ever new student last 10 min i will take the back up classes
+3- python introduce we are completed 
+4- everyone did you install anaconda 
+		for the time being who ever not install please work with on google colab
+	next week i will show how to insall vs code 
+5- monday - github creation, vscode installation 
+6- every day what ever you will work please keep post in your github 
+7- python codeing --	
+			number, string, python variable creation 
+			
+8- variable == identifier == object 
+		variable name = value 
+		
+9- learner who ever join for the 1st time online & Offlien just listen class 45 min. 
+	last 10 min -- back up classes ( how to install all those thing) 
+	
+10- if any learner fast in typing then only work with me in the class 
+if you are slow in typeing just listen the classes and please do it 
+
+11- everytime track the error ( understan the error ) - 90% will fix 
+
+11- python variable createion 
+		variable = value 
+
+---
+Rules to define pythoon variable -->
+---
+1- VARIABLE NEVER START WITH NUMBER 
+2- variable case sensitive 
+3- special chareactare is not allowed only _allowed  
+4- keywords never be an varibale or identifier 
+
+python variable is completed 
+
+variable = value 
+							int value 
+							float value 
+							complex value 
+							string value 
+							boolean value 
+
+values are called as data type
+
+keyword or reservce word we cannot defina as variable 
+		every prograiming we have some resevce words
+				c - reserve word | c++, java, | python also 
+	if you understand all reseerve word then python is compeltd 
+
+do not write complte word  in programe 
+
+- call the varibal with the name which you define 
+		puspa1 = 1000
+		puspa1
+		puspa2 
+		
+==== 28th  
+		
+
+	
+
+		
+
+							 
+									
+
+
+
+^^^^^^^^^ADMIN DETAILS ==>
+Online admin number 
+		- Mr. Arif -- +91 9154861173 
+Offline Admin 
+		- Mr. Srikant | Mr. Ajay 
+
+^^^^^^^^^^ONLINE MENTOR ==>
+Data science mentor link-1: 
+	https://zoom.us/j/82068816627?pwd=3BYepgjDCqbkroxauQGo2T4gr9f7Fn.1
+	
+Data Science link-2
+	https://zoom.us/j/86433658207?pwd=7abh6fYZ1McPZsguCNgEaONRoKKY7Y.1
+Password - 112233
+
+OFFLINE METOR (3rd Floor) 
+^^^^^^^^^
+Software Installation: https://youtu.be/PhIAQ8rE2xc?si=O-K1FHF_1a1FeT4o
+^^^^^^^^^
+========
+Drive Link -- https://drive.google.com/drive/folders/1sYkBSobt6Nb1Q9zJV_b2xiIR6BBUWjf5
+whatsapp link -- https://chat.whatsapp.com/Dg9KsBinrHEDVLSzOwvlfH
+=========
+👉 Backup Video:
+Day-1 https://youtu.be/B3c_T-yeSZg
+Day-2 https://youtu.be/i38H7UcgY8c
+Day-3 https://youtu.be/XXl10rNETQI
+Day-4 https://youtu.be/X_8iqvv0feg
+Day-5 https://youtu.be/z6rI0JVqoUE
+Day-6 https://youtu.be/_hEptuXdQb4
+
+📂 Drive Link: https://t.ly/BcbK6
+
+📁SOFTWARE INSTALLATION VIDEO: 
+https://youtu.be/PhIAQ8rE2xc?si=fFPVhdR7DnpwA40U
+
+
